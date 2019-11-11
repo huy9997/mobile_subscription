@@ -1,5 +1,10 @@
 # mobile_subscription
 
+# group
+
+- Huy Nguyen
+- Llya Nemtsov
+
 # summary
 
 The project is made to allow organizations to send sms messages
