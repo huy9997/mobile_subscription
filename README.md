@@ -3,7 +3,7 @@
 # group
 
 - Huy Nguyen
-- Llya Nemtsov
+- Ilya Nemtsov
 
 # summary
 
@@ -16,12 +16,20 @@ messages
 
 - login
 - sign up
-- create account
+- create account/profile
 - see mock data of subcribers
 - fill in form to send sms
 - see send sms data
+- see stats(analitycs)
 
 # nice have feature
 
 - backend of the product
 - node express server sending actual sms
+
+
+
+
+
+
+
